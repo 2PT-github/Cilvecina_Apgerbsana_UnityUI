@@ -1,4 +1,4 @@
-# Cilvecina_Apgerbsana_UnityUI
+# Cilvēciņa_Apģerbšana_UnityUI
 Unity 2D projekts, kas demonstrē UI elementu lietojumu, kas ļauj apģērbt izvēlētu tēlu.
 
 ### Veicamo darbu saraksts
